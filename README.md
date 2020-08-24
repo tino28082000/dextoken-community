@@ -1,14 +1,12 @@
 # dextoken-community
 
-What's Speculative AMM?
+1. What's Speculative AMM?
 
-Is Jollen a fake one?
+2. What is the liquitdity farming mechanism?
 
-Is Flowchain = flow protocol?
+3. When $DEXG will be lisdted by coingecko and coinmarketcap?
 
-What is the liquitdity farming mechanism?
-
-When $DEXG will be lisdted by coingecko and coinmarketcap?
+4. When the whitepaper will release?
 
 
 
